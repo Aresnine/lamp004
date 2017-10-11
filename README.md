@@ -3,7 +3,7 @@
 课程大纲
 
 ```
-1、scratch   10天
+1、scratch   10
 
 2、html5+css3  19+1天
 
