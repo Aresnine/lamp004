@@ -107,5 +107,27 @@
 3、iframe标签：双标签  src属性  链接的是一个html文件
 ```
 
+&lt;frameset&gt;标签：框架标签
 
+		需要&lt;frame /&gt;配合使用
+
+		属性：
+
+			1、rows ：表示的是横着分
+
+			2、cols ：表示的是竖着分
+
+		注意：不能放在body内
+
+		frame：需要src属性，src没有的时候为空
+
+		
+
+		target:
+
+			1、\_self  当前页面
+
+			2、\_blank  新页面
+
+			3、\_parent 父页面
 
