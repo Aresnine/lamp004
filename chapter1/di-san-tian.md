@@ -107,7 +107,7 @@
 3、iframe标签：双标签  src属性  链接的是一个html文件
 ```
 
-&lt;frameset&gt;标签：框架标签
+	&lt;frameset&gt;标签：框架标签
 
 		需要&lt;frame /&gt;配合使用
 
@@ -125,9 +125,9 @@
 
 		target:
 
-			1、\_self  当前页面
+			1、_self  当前页面
 
-			2、\_blank  新页面
+			2、_blank  新页面
 
-			3、\_parent 父页面
+			3、_parent 父页面
 
